@@ -4,7 +4,6 @@ The Project is Small. I have implemnets free food recipe API using DIo package a
 
 # Output
 
-
 <img src="https://github.com/user-attachments/assets/8a59eebb-353f-4295-a614-054fd102cbb2" alt="Screenshot 3" height="500" style="margin-right: 200px;">
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 

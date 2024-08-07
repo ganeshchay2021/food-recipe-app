@@ -1,6 +1,6 @@
 # Food Recepi App
 
-The Project is Small. I have implemnets free food recipe API using DIo package and for state management i have used Bloc. 
+The Project is Small. I have implemnets free food recipe API using DIo package and for state management i have used Bloc.
 
 # Output
 
